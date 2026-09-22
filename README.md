@@ -1,1 +1,1 @@
-keep it simple
+[keep it simple](![workflow](https://github.com/Ky1eM05/sem/actions/workflows/main.yml/badge.svg))
